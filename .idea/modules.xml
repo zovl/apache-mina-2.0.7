@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/apache-mina-2.0.7.iml" filepath="$PROJECT_DIR$/.idea/apache-mina-2.0.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-core/mina-core.iml" filepath="$PROJECT_DIR$/src/mina-core/mina-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-example/mina-example.iml" filepath="$PROJECT_DIR$/src/mina-example/mina-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-filter-compression/mina-filter-compression.iml" filepath="$PROJECT_DIR$/src/mina-filter-compression/mina-filter-compression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-http/mina-http.iml" filepath="$PROJECT_DIR$/src/mina-http/mina-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-integration-beans/mina-integration-beans.iml" filepath="$PROJECT_DIR$/src/mina-integration-beans/mina-integration-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-integration-jmx/mina-integration-jmx.iml" filepath="$PROJECT_DIR$/src/mina-integration-jmx/mina-integration-jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-integration-ognl/mina-integration-ognl.iml" filepath="$PROJECT_DIR$/src/mina-integration-ognl/mina-integration-ognl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-integration-xbean/mina-integration-xbean.iml" filepath="$PROJECT_DIR$/src/mina-integration-xbean/mina-integration-xbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-legal/mina-legal.iml" filepath="$PROJECT_DIR$/src/mina-legal/mina-legal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-parent.iml" filepath="$PROJECT_DIR$/src/mina-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-statemachine/mina-statemachine.iml" filepath="$PROJECT_DIR$/src/mina-statemachine/mina-statemachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-transport-apr/mina-transport-apr.iml" filepath="$PROJECT_DIR$/src/mina-transport-apr/mina-transport-apr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/mina-transport-serial/mina-transport-serial.iml" filepath="$PROJECT_DIR$/src/mina-transport-serial/mina-transport-serial.iml" />
+    </modules>
+  </component>
+</project>

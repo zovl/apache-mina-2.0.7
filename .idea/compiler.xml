@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="mina-core" />
+        <module name="mina-example" />
+        <module name="mina-filter-compression" />
+        <module name="mina-http" />
+        <module name="mina-integration-beans" />
+        <module name="mina-integration-jmx" />
+        <module name="mina-integration-ognl" />
+        <module name="mina-integration-xbean" />
+        <module name="mina-legal" />
+        <module name="mina-statemachine" />
+        <module name="mina-transport-apr" />
+        <module name="mina-transport-serial" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mina-core" target="1.5" />
+      <module name="mina-example" target="1.5" />
+      <module name="mina-filter-compression" target="1.5" />
+      <module name="mina-http" target="1.5" />
+      <module name="mina-integration-beans" target="1.5" />
+      <module name="mina-integration-jmx" target="1.5" />
+      <module name="mina-integration-ognl" target="1.5" />
+      <module name="mina-integration-xbean" target="1.5" />
+      <module name="mina-legal" target="1.5" />
+      <module name="mina-parent" target="1.5" />
+      <module name="mina-statemachine" target="1.5" />
+      <module name="mina-transport-apr" target="1.5" />
+      <module name="mina-transport-serial" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
